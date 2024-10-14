@@ -28,4 +28,8 @@ a32291ba0d94:/#
 
 sh: bash: not found
 
-99c1838a1623:/# 
+99c1838a1623:/#
+
+/ # home/welcome.sh
+Hello, World!
+/ # 
